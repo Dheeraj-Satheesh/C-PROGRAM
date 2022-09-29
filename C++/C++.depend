@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1650543398 source:c:\users\hp\onedrive\documents\c program\c++\main.cpp
+	<iostream>
+
+1650554350 source:c:\users\hp\onedrive\documents\c program\c++\211.cpp
+	<iostream>
+	<string>
+
