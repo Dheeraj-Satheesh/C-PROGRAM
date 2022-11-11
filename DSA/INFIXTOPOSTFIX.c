@@ -5,6 +5,7 @@
 char stack[MAX];
 char infix[MAX],postfix[MAX];
 int top=-1;
+
 void push(char);
 char pop();
 int isEmpty();
